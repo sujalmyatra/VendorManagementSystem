@@ -1,0 +1,663 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Design Pattren\\VRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|e:\\design pattren\\vrs\\practical_24.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|e:\\design pattren\\vrs\\practical_24.application\\dtos\\createfuelvehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\createfuelvehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|e:\\design pattren\\vrs\\practical_24.application\\dtos\\createelectricvehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\createelectricvehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|e:\\design pattren\\vrs\\practical_24.application\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|e:\\design pattren\\vrs\\practical_24.application\\dtos\\vehicleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\vehicleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\services\\vehicletransitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\services\\vehicletransitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|e:\\design pattren\\vrs\\practical_24.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|solutionrelative:practical_24.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|e:\\design pattren\\vrs\\practical_24.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|solutionrelative:practical_24.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|e:\\design pattren\\vrs\\practical_24.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|solutionrelative:practical_24.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|e:\\design pattren\\vrs\\practical_24.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|solutionrelative:practical_24.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\energysources\\energysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\energysources\\energysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\valueobjects\\gpscoordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\valueobjects\\gpscoordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\states\\rentedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\states\\rentedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\states\\maintenancestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\states\\maintenancestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\states\\availabestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\states\\availabestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\interfaces\\ivehicletransitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\interfaces\\ivehicletransitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\interfaces\\ivehiclestatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\interfaces\\ivehiclestatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\interfaces\\ivehiclestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\interfaces\\ivehiclestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\factories\\vehiclestatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\vehiclestatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\factories\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\factories\\fuelvehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\fuelvehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\factories\\electricvehiclefactory.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\electricvehiclefactory.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\enums\\vehiclestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\enums\\vehiclestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\enums\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\enums\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\enums\\energysourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\enums\\energysourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\energysources\\fuelenergysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\energysources\\fuelenergysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\energysources\\irefillable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\energysources\\irefillable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\energysources\\ienergysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\energysources\\ienergysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\energysources\\electricenergysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\energysources\\electricenergysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\entities\\defination.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\entities\\defination.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|e:\\design pattren\\vrs\\practical_24.domain\\practical_24.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\practical_24.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B0104D-41AD-C0DF-99A4-962496B5983F}|Practical_24.API\\Practical_24.API.csproj|e:\\design pattren\\vrs\\practical_24.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B0104D-41AD-C0DF-99A4-962496B5983F}|Practical_24.API\\Practical_24.API.csproj|solutionrelative:practical_24.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Application\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Services\\VehicleService.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Application\\Services\\VehicleService.cs",
+              "RelativeToolTip": "Practical_24.Application\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAiwHMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T14:58:56.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Application\\Interfaces\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Interfaces\\IVehicleService.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Application\\Interfaces\\IVehicleService.cs",
+              "RelativeToolTip": "Practical_24.Application\\Interfaces\\IVehicleService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T14:45:39.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleResponse.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Application\\DTOs\\VehicleResponse.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\VehicleResponse.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Application\\DTOs\\VehicleResponse.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\VehicleResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T14:34:40.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateElectricVehicleRequest.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Application\\DTOs\\CreateElectricVehicleRequest.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\CreateElectricVehicleRequest.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Application\\DTOs\\CreateElectricVehicleRequest.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\CreateElectricVehicleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T14:34:21.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateFuelVehicleRequest.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Application\\DTOs\\CreateFuelVehicleRequest.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\CreateFuelVehicleRequest.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Application\\DTOs\\CreateFuelVehicleRequest.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\CreateFuelVehicleRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T14:33:57.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "Practical_24.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "Practical_24.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:46:11.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Practical_24.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Practical_24.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:12:20.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:12:40.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:12:50.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:11:57.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleTransitionService.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Services\\VehicleTransitionService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Services\\VehicleTransitionService.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Services\\VehicleTransitionService.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Services\\VehicleTransitionService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T10:44:59.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:11:25.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\Vehicle.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T16:03:52.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Interfaces\\IVehicleRepository.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IVehicleRepository.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Interfaces\\IVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:44:35.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnergySource.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\EnergySources\\EnergySource.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\EnergySources\\EnergySource.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\EnergySources\\EnergySource.cs",
+              "RelativeToolTip": "Practical_24.Domain\\EnergySources\\EnergySource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:18:49.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Money.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\ValueObjects\\Money.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\ValueObjects\\Money.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\ValueObjects\\Money.cs",
+              "RelativeToolTip": "Practical_24.Domain\\ValueObjects\\Money.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T15:53:56.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GpsCoordinate.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\ValueObjects\\GpsCoordinate.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\ValueObjects\\GpsCoordinate.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\ValueObjects\\GpsCoordinate.cs",
+              "RelativeToolTip": "Practical_24.Domain\\ValueObjects\\GpsCoordinate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T15:54:06.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:11:56.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RentedState.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\States\\RentedState.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\RentedState.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\States\\RentedState.cs",
+              "RelativeToolTip": "Practical_24.Domain\\States\\RentedState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:38:56.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MaintenanceState.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\States\\MaintenanceState.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\MaintenanceState.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\States\\MaintenanceState.cs",
+              "RelativeToolTip": "Practical_24.Domain\\States\\MaintenanceState.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:39:09.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AvailabeState.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\States\\AvailabeState.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\AvailabeState.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\States\\AvailabeState.cs",
+              "RelativeToolTip": "Practical_24.Domain\\States\\AvailabeState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T16:49:33.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IVehicleTransitionService.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IVehicleTransitionService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Interfaces\\IVehicleTransitionService.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IVehicleTransitionService.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Interfaces\\IVehicleTransitionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T10:45:24.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IVehicleStateFactory.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IVehicleStateFactory.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Interfaces\\IVehicleStateFactory.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IVehicleStateFactory.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Interfaces\\IVehicleStateFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T10:17:09.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IVehicleState.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IVehicleState.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Interfaces\\IVehicleState.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Interfaces\\IVehicleState.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Interfaces\\IVehicleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T16:38:30.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VehicleStateFactory.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Factories\\VehicleStateFactory.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\VehicleStateFactory.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Factories\\VehicleStateFactory.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Factories\\VehicleStateFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T10:18:04.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VehicleFactory.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Factories\\VehicleFactory.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\VehicleFactory.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Factories\\VehicleFactory.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Factories\\VehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:48:37.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FuelVehicleFactory.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Factories\\FuelVehicleFactory.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\FuelVehicleFactory.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Factories\\FuelVehicleFactory.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Factories\\FuelVehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:52:03.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ElectricVehicleFactory.cs.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Factories\\ElectricVehicleFactory.cs.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\ElectricVehicleFactory.cs.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Factories\\ElectricVehicleFactory.cs.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Factories\\ElectricVehicleFactory.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:52:20.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VehicleStatus.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Enums\\VehicleStatus.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Enums\\VehicleStatus.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Enums\\VehicleStatus.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Enums\\VehicleStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T15:52:56.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FuelType.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Enums\\FuelType.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Enums\\FuelType.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Enums\\FuelType.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Enums\\FuelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T15:53:06.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EnergySourceType.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Enums\\EnergySourceType.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Enums\\EnergySourceType.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Enums\\EnergySourceType.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Enums\\EnergySourceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:16:17.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FuelEnergySource.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\EnergySources\\FuelEnergySource.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\EnergySources\\FuelEnergySource.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\EnergySources\\FuelEnergySource.cs",
+              "RelativeToolTip": "Practical_24.Domain\\EnergySources\\FuelEnergySource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T16:20:35.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRefillable.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\EnergySources\\IRefillable.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\EnergySources\\IRefillable.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\EnergySources\\IRefillable.cs",
+              "RelativeToolTip": "Practical_24.Domain\\EnergySources\\IRefillable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T16:23:03.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IEnergySource.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\EnergySources\\IEnergySource.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\EnergySources\\IEnergySource.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\EnergySources\\IEnergySource.cs",
+              "RelativeToolTip": "Practical_24.Domain\\EnergySources\\IEnergySource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T16:20:08.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ElectricEnergySource.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\EnergySources\\ElectricEnergySource.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\EnergySources\\ElectricEnergySource.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\EnergySources\\ElectricEnergySource.cs",
+              "RelativeToolTip": "Practical_24.Domain\\EnergySources\\ElectricEnergySource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T16:20:51.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "defination.txt",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Entities\\defination.txt",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\defination.txt",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Entities\\defination.txt",
+              "RelativeToolTip": "Practical_24.Domain\\Entities\\defination.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-20T16:17:46.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Practical_24.Domain.csproj",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Practical_24.Domain.csproj",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Practical_24.Domain.csproj",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Practical_24.Domain.csproj",
+              "RelativeToolTip": "Practical_24.Domain\\Practical_24.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-20T15:53:13.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Design Pattren\\VRS\\Practical_24.API\\Program.cs",
+              "RelativeDocumentMoniker": "Practical_24.API\\Program.cs",
+              "ToolTip": "E:\\Design Pattren\\VRS\\Practical_24.API\\Program.cs",
+              "RelativeToolTip": "Practical_24.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:13:17.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

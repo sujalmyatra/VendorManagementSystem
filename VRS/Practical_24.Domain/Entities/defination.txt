@@ -1,0 +1,9 @@
+﻿Vehicle Renting System
+two types of vehicle: - fuel and electric
+fuel types: - petrol, diesel, cng
+there is status of vehicle: - rented, available, maintenance
+ 
+other details of vehicle to be stored: -
+gps coordinates, model, hourly rate, speed limit
+ 
+there should be also an event which fires when vehicle is over speeding beyond the speed limit
