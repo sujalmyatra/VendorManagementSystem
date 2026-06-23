@@ -1,0 +1,9 @@
+﻿5 Entities :
+Customer, Vendor, Payment, Invoice, InvoiceList(items with quantity & price)
+all have common Id (Base Entity)
+Customer & Vendor can be SoftDeleted
+Audit Fields (CreatedAt, CreatedBy, UpdatedAt, UpdatedBy) for Customer & Vendors
+Payment can be of 5 types (Cash, UPI, Credit Card, Debit Card, Net Banking)
+If Payment fails then give another chance. Give Total 6 chances. If Payment fails on 6th chance then generate exception("Payment Failed"), also the payment pattern should be Exponential ( after 1st payment fail wait for 10 seconds, then try again. if again fails then wait for 20 seconds, then again try........ ).
+When Order is Created (Payment Done), Generate Event (Order Succeed).
+Use SOLID & OOPs
