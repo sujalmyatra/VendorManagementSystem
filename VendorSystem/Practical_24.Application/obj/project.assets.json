@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "AutoMapper/16.1.1": {
@@ -589,23 +589,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sujal.myatra\\.nuget\\packages\\": {},
+    "C:\\Users\\ACER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Practical_24.Application.csproj",
+      "projectUniqueName": "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Practical_24.Application.csproj",
       "projectName": "Practical_24.Application",
-      "projectPath": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Practical_24.Application.csproj",
-      "packagesPath": "C:\\Users\\sujal.myatra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\obj\\",
+      "projectPath": "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Practical_24.Application.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\sujal.myatra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -615,14 +615,15 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Practical_24.Domain.csproj": {
-              "projectPath": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Practical_24.Domain.csproj"
+            "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Practical_24.Domain.csproj": {
+              "projectPath": "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Practical_24.Domain.csproj"
             }
           }
         }
@@ -637,10 +638,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "AutoMapper": {
@@ -668,7 +670,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

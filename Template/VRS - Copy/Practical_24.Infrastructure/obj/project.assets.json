@@ -3849,11 +3849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Design Pattren\\Template\\VRS - Copy\\Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj",
+      "projectUniqueName": "E:\\Design Pattren\\VendorManagementSystem\\Template\\VRS - Copy\\Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj",
       "projectName": "Practical_24.Infrastructure",
-      "projectPath": "E:\\Design Pattren\\Template\\VRS - Copy\\Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj",
+      "projectPath": "E:\\Design Pattren\\VendorManagementSystem\\Template\\VRS - Copy\\Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "E:\\Design Pattren\\Template\\VRS - Copy\\Practical_24.Infrastructure\\obj\\",
+      "outputPath": "E:\\Design Pattren\\VendorManagementSystem\\Template\\VRS - Copy\\Practical_24.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3876,8 +3876,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "E:\\Design Pattren\\Template\\VRS - Copy\\Practical_24.Domain\\Practical_24.Domain.csproj": {
-              "projectPath": "E:\\Design Pattren\\Template\\VRS - Copy\\Practical_24.Domain\\Practical_24.Domain.csproj"
+            "E:\\Design Pattren\\VendorManagementSystem\\Template\\VRS - Copy\\Practical_24.Domain\\Practical_24.Domain.csproj": {
+              "projectPath": "E:\\Design Pattren\\VendorManagementSystem\\Template\\VRS - Copy\\Practical_24.Domain\\Practical_24.Domain.csproj"
             }
           }
         }

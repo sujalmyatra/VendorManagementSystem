@@ -595,11 +595,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Design Pattren\\VRS\\Practical_24.Application\\Practical_24.Application.csproj",
+      "projectUniqueName": "E:\\Design Pattren\\VendorManagementSystem\\VRS\\Practical_24.Application\\Practical_24.Application.csproj",
       "projectName": "Practical_24.Application",
-      "projectPath": "E:\\Design Pattren\\VRS\\Practical_24.Application\\Practical_24.Application.csproj",
+      "projectPath": "E:\\Design Pattren\\VendorManagementSystem\\VRS\\Practical_24.Application\\Practical_24.Application.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "E:\\Design Pattren\\VRS\\Practical_24.Application\\obj\\",
+      "outputPath": "E:\\Design Pattren\\VendorManagementSystem\\VRS\\Practical_24.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -622,8 +622,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Practical_24.Domain.csproj": {
-              "projectPath": "E:\\Design Pattren\\VRS\\Practical_24.Domain\\Practical_24.Domain.csproj"
+            "E:\\Design Pattren\\VendorManagementSystem\\VRS\\Practical_24.Domain\\Practical_24.Domain.csproj": {
+              "projectPath": "E:\\Design Pattren\\VendorManagementSystem\\VRS\\Practical_24.Domain\\Practical_24.Domain.csproj"
             }
           }
         }

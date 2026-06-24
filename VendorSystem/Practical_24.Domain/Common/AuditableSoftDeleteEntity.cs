@@ -6,7 +6,7 @@ namespace Practical_24.Domain.Common
 {
     public class AuditableSoftDeleteEntity : AuditableEntity, ISoftDeletable
     {
-        public bool IsDeleted { get; protected set; }
+        public bool IsDeleted { get;  set; }
 
     }
 }

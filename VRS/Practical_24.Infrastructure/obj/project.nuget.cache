@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JTqa1TyTDfA=",
+  "dgSpecHash": "f/OYtewBaXk=",
   "success": true,
-  "projectFilePath": "E:\\Design Pattren\\VRS\\Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj",
+  "projectFilePath": "E:\\Design Pattren\\VendorManagementSystem\\VRS\\Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\automapper\\16.1.1\\automapper.16.1.1.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
