@@ -5,13 +5,13 @@ using System.Text;
 
 namespace Practical_24.Domain.Entities
 {
-    public class InvoiceList : BaseEntity
+    public class InvoiceList(Guid id, string name, int quantity, decimal price) : BaseEntity
 
     {
-        public Guid InvoiceId { get; private set; }
+        public Guid InvoiceId { get; private set; } = id;
         public Invoice Invoice { get; private set; } = null!;
-        public string ItemName { get; private set; } = string.Empty;
-        public int Quantity { get; private set; } 
-        public decimal Price { get; private set; } 
+        public string ItemName { get; private set; } = name;
+        public int Quantity { get; private set; } = quantity;
+        public decimal Price { get; private set; } = price;
     }
 }

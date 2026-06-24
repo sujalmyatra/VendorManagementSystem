@@ -3,36 +3,152 @@
   "WorkspaceRootPath": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\factories\\paymentmethodfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\paymentmethodfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\factories\\cashpaymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\cashpaymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\factories\\upipaymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\upipaymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\factories\\ipaymentmethodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\ipaymentmethodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\paymentmethods\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\paymentmethods\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\validators\\createorderrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\validators\\createorderrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\validators\\createinvoiceitemrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\validators\\createinvoiceitemrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\validators\\createvendorrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\validators\\createvendorrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\validators\\createcustomerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\validators\\createcustomerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\mappings\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\mappings\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\interfaces\\iordersucceededeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\interfaces\\iordersucceededeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\interfaces\\ivendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\interfaces\\ivendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\dtos\\invoices\\createinvoiceitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\invoices\\createinvoiceitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\dtos\\invoices\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\invoices\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\dtos\\invoices\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\invoices\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\dtos\\invoices\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\invoices\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\dtos\\vendors\\createvendorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\vendors\\createvendorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\dtos\\invoices\\invoiceitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\invoices\\invoiceitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\dtos\\vendors\\vendorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\vendors\\vendorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\dtos\\customers\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\customers\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.application\\dtos\\customers\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A597CA-38E9-7270-C87F-3853FDB0BAC8}|Practical_24.Application\\Practical_24.Application.csproj|solutionrelative:practical_24.application\\dtos\\customers\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|solutionrelative:practical_24.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B0104D-41AD-C0DF-99A4-962496B5983F}|Practical_24.API\\Practical_24.API.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.api\\practical_24.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9B0104D-41AD-C0DF-99A4-962496B5983F}|Practical_24.API\\Practical_24.API.csproj|solutionrelative:practical_24.api\\practical_24.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|solutionrelative:practical_24.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|solutionrelative:practical_24.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\common\\auditablesoftdeleteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\common\\auditablesoftdeleteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\paymentmethods\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\paymentmethods\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\paymentmethods\\upipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\paymentmethods\\upipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\paymentmethods\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\paymentmethods\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\states\\paymentstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\states\\paymentstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\policies\\ipaymentretrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\policies\\ipaymentretrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\policies\\exponentialpaymentretrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\policies\\exponentialpaymentretrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\states\\failedpaymentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +157,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\states\\ipaymentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\states\\ipaymentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\states\\paymentstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\states\\paymentstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\states\\pendingpaymentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,6 +179,26 @@
       "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\states\\succeededpaymentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\factories\\paymentmethodfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\paymentmethodfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\factories\\cashpaymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\cashpaymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\factories\\upipaymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\upipaymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\factories\\ipaymentmethodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\factories\\ipaymentmethodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\paymentmethods\\upipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\paymentmethods\\upipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,14 +209,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\common\\ordersucceededevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\common\\ordersucceededevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\policies\\ipaymentretrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\policies\\ipaymentretrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\policies\\exponentialpaymentretrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\policies\\exponentialpaymentretrypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\common\\desc.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -99,28 +231,12 @@
       "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\entities\\invoicelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\entities\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\entities\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\common\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\common\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\common\\auditablesoftdeleteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\common\\auditablesoftdeleteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -133,26 +249,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9B0104D-41AD-C0DF-99A4-962496B5983F}|Practical_24.API\\Practical_24.API.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9B0104D-41AD-C0DF-99A4-962496B5983F}|Practical_24.API\\Practical_24.API.csproj|solutionrelative:practical_24.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652FFBEB-AC44-AA21-BAF5-17178B7C1745}|Practical_24.Domain\\Practical_24.Domain.csproj|solutionrelative:practical_24.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|solutionrelative:practical_24.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|solutionrelative:practical_24.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|c:\\users\\sujal.myatra\\desktop\\dp practice\\vendormanagementsystem\\vendorsystem\\practical_24.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF293C00-2CA4-E549-8416-AC3719F59531}|Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj|solutionrelative:practical_24.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -167,279 +263,415 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PaymentMethodFactoryProvider.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\PaymentMethodFactoryProvider.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\PaymentMethodFactoryProvider.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\PaymentMethodFactoryProvider.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Factories\\PaymentMethodFactoryProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Practical_24.Application\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T13:09:32.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FailedPaymentState.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\FailedPaymentState.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\FailedPaymentState.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\FailedPaymentState.cs",
-              "RelativeToolTip": "Practical_24.Domain\\States\\FailedPaymentState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:32:17.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PaymentStateFactory.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\PaymentStateFactory.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\PaymentStateFactory.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\PaymentStateFactory.cs",
-              "RelativeToolTip": "Practical_24.Domain\\States\\PaymentStateFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:32:28.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPaymentMethod.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\IPaymentMethod.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\PaymentMethods\\IPaymentMethod.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\IPaymentMethod.cs",
-              "RelativeToolTip": "Practical_24.Domain\\PaymentMethods\\IPaymentMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:26:57.364Z",
+              "WhenOpened": "2026-06-24T04:12:16.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CashPaymentFactory.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\CashPaymentFactory.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\CashPaymentFactory.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\CashPaymentFactory.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Factories\\CashPaymentFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "Practical_24.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:29:51.498Z",
+              "WhenOpened": "2026-06-24T04:12:08.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UpiPaymentFactory.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\UpiPaymentFactory.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\UpiPaymentFactory.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\UpiPaymentFactory.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Factories\\UpiPaymentFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "VendorService.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Services\\VendorService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Services\\VendorService.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Services\\VendorService.cs",
+              "RelativeToolTip": "Practical_24.Application\\Services\\VendorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:30:00.842Z",
+              "WhenOpened": "2026-06-24T04:11:43.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IPaymentMethodFactory.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\IPaymentMethodFactory.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\IPaymentMethodFactory.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\IPaymentMethodFactory.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Factories\\IPaymentMethodFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Practical_24.Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:29:08.715Z",
+              "WhenOpened": "2026-06-24T04:11:35.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CashPayment.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\CashPayment.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\PaymentMethods\\CashPayment.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\CashPayment.cs",
-              "RelativeToolTip": "Practical_24.Domain\\PaymentMethods\\CashPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Title": "CreateOrderRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Validators\\CreateOrderRequestValidator.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Validators\\CreateOrderRequestValidator.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Validators\\CreateOrderRequestValidator.cs",
+              "RelativeToolTip": "Practical_24.Application\\Validators\\CreateOrderRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:27:18.195Z",
+              "WhenOpened": "2026-06-24T04:11:10.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateInvoiceItemRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Validators\\CreateInvoiceItemRequestValidator.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Validators\\CreateInvoiceItemRequestValidator.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Validators\\CreateInvoiceItemRequestValidator.cs",
+              "RelativeToolTip": "Practical_24.Application\\Validators\\CreateInvoiceItemRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:11:02.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UpiPayment.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\UpiPayment.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\PaymentMethods\\UpiPayment.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\UpiPayment.cs",
-              "RelativeToolTip": "Practical_24.Domain\\PaymentMethods\\UpiPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Title": "CreateVendorRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Validators\\CreateVendorRequestValidator.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Validators\\CreateVendorRequestValidator.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Validators\\CreateVendorRequestValidator.cs",
+              "RelativeToolTip": "Practical_24.Application\\Validators\\CreateVendorRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:27:41.515Z",
+              "WhenOpened": "2026-06-24T04:10:48.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPaymentState.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\IPaymentState.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\IPaymentState.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\IPaymentState.cs",
-              "RelativeToolTip": "Practical_24.Domain\\States\\IPaymentState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CreateCustomerRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Validators\\CreateCustomerRequestValidator.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Validators\\CreateCustomerRequestValidator.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Validators\\CreateCustomerRequestValidator.cs",
+              "RelativeToolTip": "Practical_24.Application\\Validators\\CreateCustomerRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:31:07.147Z",
+              "WhenOpened": "2026-06-24T04:10:33.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "RelativeToolTip": "Practical_24.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:10:15.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "PendingPaymentState.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\PendingPaymentState.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\PendingPaymentState.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\PendingPaymentState.cs",
-              "RelativeToolTip": "Practical_24.Domain\\States\\PendingPaymentState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB1AAAAAAAAAA==",
+              "Title": "IOrderSucceededEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Interfaces\\IOrderSucceededEventHandler.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Interfaces\\IOrderSucceededEventHandler.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Interfaces\\IOrderSucceededEventHandler.cs",
+              "RelativeToolTip": "Practical_24.Application\\Interfaces\\IOrderSucceededEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:31:34.77Z",
+              "WhenOpened": "2026-06-24T04:08:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "Practical_24.Application\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:07:54.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ProcessingPaymentState.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\ProcessingPaymentState.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\ProcessingPaymentState.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\ProcessingPaymentState.cs",
-              "RelativeToolTip": "Practical_24.Domain\\States\\ProcessingPaymentState.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Practical_24.Application\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:31:47.772Z",
+              "WhenOpened": "2026-06-24T04:07:42.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "RetryingPaymentState.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\RetryingPaymentState.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\RetryingPaymentState.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\RetryingPaymentState.cs",
-              "RelativeToolTip": "Practical_24.Domain\\States\\RetryingPaymentState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABoAAAAAAAAAA==",
+              "Title": "IVendorService.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Interfaces\\IVendorService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Interfaces\\IVendorService.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Interfaces\\IVendorService.cs",
+              "RelativeToolTip": "Practical_24.Application\\Interfaces\\IVendorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:31:58.227Z",
+              "WhenOpened": "2026-06-24T04:07:32.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "SucceededPaymentState.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\SucceededPaymentState.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\SucceededPaymentState.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\SucceededPaymentState.cs",
-              "RelativeToolTip": "Practical_24.Domain\\States\\SucceededPaymentState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABeAAAAAAAAAA==",
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Practical_24.Application\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:32:09.015Z",
+              "WhenOpened": "2026-06-24T04:07:21.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Payment.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\Payment.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Payment.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Entities\\Payment.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA0wEUAAAApAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "PaymentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Invoices\\PaymentResponse.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\Invoices\\PaymentResponse.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Invoices\\PaymentResponse.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\Invoices\\PaymentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:24:55.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PaymentFailedException.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Exceptions\\PaymentFailedException.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Exceptions\\PaymentFailedException.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Exceptions\\PaymentFailedException.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Exceptions\\PaymentFailedException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T11:48:44.14Z",
+              "WhenOpened": "2026-06-24T04:04:47.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "OrderSucceededEvent.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\OrderSucceededEvent.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Common\\OrderSucceededEvent.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\OrderSucceededEvent.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Common\\OrderSucceededEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Invoices\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\Invoices\\OrderResponse.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Invoices\\OrderResponse.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\Invoices\\OrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T11:52:35.362Z",
+              "WhenOpened": "2026-06-24T04:04:35.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ExponentialPaymentRetryPolicy.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Policies\\ExponentialPaymentRetryPolicy.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Policies\\ExponentialPaymentRetryPolicy.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Policies\\ExponentialPaymentRetryPolicy.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Policies\\ExponentialPaymentRetryPolicy.cs",
+              "DocumentIndex": 15,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Invoices\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\Invoices\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Invoices\\CreateOrderRequest.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\Invoices\\CreateOrderRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:33:17.442Z",
+              "WhenOpened": "2026-06-24T04:04:25.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InvoiceItemResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Invoices\\InvoiceItemResponse.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\Invoices\\InvoiceItemResponse.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Invoices\\InvoiceItemResponse.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\Invoices\\InvoiceItemResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:04:14.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateInvoiceItemRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Invoices\\CreateInvoiceItemRequest.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\Invoices\\CreateInvoiceItemRequest.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Invoices\\CreateInvoiceItemRequest.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\Invoices\\CreateInvoiceItemRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:03:57.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "PaymentType.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Enums\\PaymentType.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Enums\\PaymentType.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Enums\\PaymentType.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Enums\\PaymentType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "VendorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Vendors\\VendorResponse.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\Vendors\\VendorResponse.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Vendors\\VendorResponse.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\Vendors\\VendorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T11:22:10.132Z",
+              "WhenOpened": "2026-06-24T04:03:38.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateVendorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Vendors\\CreateVendorRequest.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\Vendors\\CreateVendorRequest.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Vendors\\CreateVendorRequest.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\Vendors\\CreateVendorRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:03:15.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "InvoiceStatus.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Enums\\InvoiceStatus.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Enums\\InvoiceStatus.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Enums\\InvoiceStatus.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Enums\\InvoiceStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Title": "CreateCustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Customers\\CreateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\Customers\\CreateCustomerRequest.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Customers\\CreateCustomerRequest.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\Customers\\CreateCustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:22:35.326Z",
+              "WhenOpened": "2026-06-24T04:01:22.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "InvoiceList.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\InvoiceList.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\InvoiceList.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\InvoiceList.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Entities\\InvoiceList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "CustomerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Customers\\CustomerResponse.cs",
+              "RelativeDocumentMoniker": "Practical_24.Application\\DTOs\\Customers\\CustomerResponse.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\DTOs\\Customers\\CustomerResponse.cs",
+              "RelativeToolTip": "Practical_24.Application\\DTOs\\Customers\\CustomerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:24:46.974Z",
+              "WhenOpened": "2026-06-24T04:01:09.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "Practical_24.API.csproj",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.API\\Practical_24.API.csproj",
+              "RelativeDocumentMoniker": "Practical_24.API\\Practical_24.API.csproj",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.API\\Practical_24.API.csproj",
+              "RelativeToolTip": "Practical_24.API\\Practical_24.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T18:11:32.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Practical_24.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Practical_24.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wD0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:12:20.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Common\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\AuditableEntity.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Common\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:21:37.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuditableSoftDeleteEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\AuditableSoftDeleteEntity.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Common\\AuditableSoftDeleteEntity.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\AuditableSoftDeleteEntity.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Common\\AuditableSoftDeleteEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:34:19.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:11:56.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:12:40.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:11:57.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:12:50.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:24:00.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Invoice.cs",
               "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Invoice.cs",
               "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\Invoice.cs",
@@ -447,25 +679,35 @@
               "RelativeToolTip": "Practical_24.Domain\\Entities\\Invoice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:24:34.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-22T17:24:34.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Vendor.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Vendor.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\Vendor.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Vendor.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Entities\\Vendor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\PaymentMethods\\IPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\IPaymentMethod.cs",
+              "RelativeToolTip": "Practical_24.Domain\\PaymentMethods\\IPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:24:22.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-22T17:26:57.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
+              "Title": "CashPayment.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\CashPayment.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\PaymentMethods\\CashPayment.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\CashPayment.cs",
+              "RelativeToolTip": "Practical_24.Domain\\PaymentMethods\\CashPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:27:18.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "IPaymentRetryPolicy.cs",
               "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Policies\\IPaymentRetryPolicy.cs",
               "RelativeDocumentMoniker": "Practical_24.Domain\\Policies\\IPaymentRetryPolicy.cs",
@@ -473,25 +715,251 @@
               "RelativeToolTip": "Practical_24.Domain\\Policies\\IPaymentRetryPolicy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:33:08.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-22T17:33:08.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Customer.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 36,
+              "Title": "ExponentialPaymentRetryPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Policies\\ExponentialPaymentRetryPolicy.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Policies\\ExponentialPaymentRetryPolicy.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Policies\\ExponentialPaymentRetryPolicy.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Policies\\ExponentialPaymentRetryPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:24:00.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-22T17:33:17.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
+              "Title": "FailedPaymentState.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\FailedPaymentState.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\FailedPaymentState.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\FailedPaymentState.cs",
+              "RelativeToolTip": "Practical_24.Domain\\States\\FailedPaymentState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:32:17.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IPaymentState.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\IPaymentState.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\IPaymentState.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\IPaymentState.cs",
+              "RelativeToolTip": "Practical_24.Domain\\States\\IPaymentState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:31:07.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaymentStateFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\PaymentStateFactory.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\PaymentStateFactory.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\PaymentStateFactory.cs",
+              "RelativeToolTip": "Practical_24.Domain\\States\\PaymentStateFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:32:28.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PendingPaymentState.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\PendingPaymentState.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\PendingPaymentState.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\PendingPaymentState.cs",
+              "RelativeToolTip": "Practical_24.Domain\\States\\PendingPaymentState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:31:34.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProcessingPaymentState.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\ProcessingPaymentState.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\ProcessingPaymentState.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\ProcessingPaymentState.cs",
+              "RelativeToolTip": "Practical_24.Domain\\States\\ProcessingPaymentState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:31:47.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RetryingPaymentState.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\RetryingPaymentState.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\RetryingPaymentState.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\RetryingPaymentState.cs",
+              "RelativeToolTip": "Practical_24.Domain\\States\\RetryingPaymentState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:31:58.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SucceededPaymentState.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\SucceededPaymentState.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\States\\SucceededPaymentState.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\States\\SucceededPaymentState.cs",
+              "RelativeToolTip": "Practical_24.Domain\\States\\SucceededPaymentState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:32:09.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PaymentMethodFactoryProvider.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\PaymentMethodFactoryProvider.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\PaymentMethodFactoryProvider.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\PaymentMethodFactoryProvider.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Factories\\PaymentMethodFactoryProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:09:32.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UpiPaymentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\UpiPaymentFactory.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\UpiPaymentFactory.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\UpiPaymentFactory.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Factories\\UpiPaymentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:30:00.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CashPaymentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\CashPaymentFactory.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\CashPaymentFactory.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\CashPaymentFactory.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Factories\\CashPaymentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:29:51.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IPaymentMethodFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\IPaymentMethodFactory.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Factories\\IPaymentMethodFactory.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Factories\\IPaymentMethodFactory.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Factories\\IPaymentMethodFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:29:08.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UpiPayment.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\UpiPayment.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\PaymentMethods\\UpiPayment.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\PaymentMethods\\UpiPayment.cs",
+              "RelativeToolTip": "Practical_24.Domain\\PaymentMethods\\UpiPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:27:41.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wEUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:24:55.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PaymentFailedException.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Exceptions\\PaymentFailedException.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Exceptions\\PaymentFailedException.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Exceptions\\PaymentFailedException.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Exceptions\\PaymentFailedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:48:44.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderSucceededEvent.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\OrderSucceededEvent.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Common\\OrderSucceededEvent.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\OrderSucceededEvent.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Common\\OrderSucceededEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:52:35.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PaymentType.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Enums\\PaymentType.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Enums\\PaymentType.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Enums\\PaymentType.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Enums\\PaymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T11:22:10.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "InvoiceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Enums\\InvoiceStatus.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Enums\\InvoiceStatus.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Enums\\InvoiceStatus.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Enums\\InvoiceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:22:35.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "InvoiceList.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\InvoiceList.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\InvoiceList.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\InvoiceList.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Entities\\InvoiceList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:24:46.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Vendor.cs",
+              "RelativeDocumentMoniker": "Practical_24.Domain\\Entities\\Vendor.cs",
+              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Entities\\Vendor.cs",
+              "RelativeToolTip": "Practical_24.Domain\\Entities\\Vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:24:22.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
               "Title": "IAuditable.cs",
               "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\IAuditable.cs",
               "RelativeDocumentMoniker": "Practical_24.Domain\\Common\\IAuditable.cs",
@@ -499,25 +967,11 @@
               "RelativeToolTip": "Practical_24.Domain\\Common\\IAuditable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:29:21.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T09:29:21.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AuditableSoftDeleteEntity.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\AuditableSoftDeleteEntity.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Common\\AuditableSoftDeleteEntity.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\AuditableSoftDeleteEntity.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Common\\AuditableSoftDeleteEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:34:19.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 52,
               "Title": "desc.txt",
               "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\desc.txt",
               "RelativeDocumentMoniker": "Practical_24.Domain\\Common\\desc.txt",
@@ -525,25 +979,11 @@
               "RelativeToolTip": "Practical_24.Domain\\Common\\desc.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-06-23T09:21:18.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T09:21:18.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AuditableEntity.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\AuditableEntity.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Common\\AuditableEntity.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\AuditableEntity.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Common\\AuditableEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:21:37.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 55,
               "Title": "PaymentStatus.cs",
               "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Enums\\PaymentStatus.cs",
               "RelativeDocumentMoniker": "Practical_24.Domain\\Enums\\PaymentStatus.cs",
@@ -551,12 +991,11 @@
               "RelativeToolTip": "Practical_24.Domain\\Enums\\PaymentStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:22:49.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-22T17:22:49.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 59,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Practical_24.Domain\\Common\\BaseEntity.cs",
@@ -564,12 +1003,11 @@
               "RelativeToolTip": "Practical_24.Domain\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:20:35.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-22T17:20:35.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 60,
               "Title": "ISoftDeletable.cs",
               "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Common\\ISoftDeletable.cs",
               "RelativeDocumentMoniker": "Practical_24.Domain\\Common\\ISoftDeletable.cs",
@@ -577,12 +1015,11 @@
               "RelativeToolTip": "Practical_24.Domain\\Common\\ISoftDeletable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-22T17:21:13.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-22T17:21:13.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 61,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.API\\Program.cs",
               "RelativeDocumentMoniker": "Practical_24.API\\Program.cs",
@@ -591,66 +1028,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T16:13:17.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "Practical_24.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T16:12:50.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "Practical_24.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T16:12:40.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Practical_24.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Practical_24.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T16:12:20.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T16:11:57.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Practical_24.Domain\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T16:11:56.02Z"
             }
           ]
         }

@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {
       "AutoMapper/16.1.1": {
@@ -16,6 +16,18 @@
           "lib/net10.0/AutoMapper.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1": {
+        "type": "package",
+        "dependencies": {
+          "AutoMapper": "[12.0.1]"
+        },
+        "compile": {
+          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
       "Azure.Core/1.47.1": {
@@ -54,7 +66,7 @@
           }
         }
       },
-      "FluentValidation/11.11.0": {
+      "FluentValidation/12.1.1": {
         "type": "package",
         "compile": {
           "lib/net8.0/FluentValidation.dll": {
@@ -87,18 +99,18 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "FluentValidation.DependencyInjectionExtensions/11.11.0": {
+      "FluentValidation.DependencyInjectionExtensions/12.1.1": {
         "type": "package",
         "dependencies": {
-          "FluentValidation": "11.11.0"
+          "FluentValidation": "12.1.1"
         },
         "compile": {
-          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+          "lib/net8.0/FluentValidation.DependencyInjectionExtensions.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+          "lib/net8.0/FluentValidation.DependencyInjectionExtensions.dll": {
             "related": ".xml"
           }
         }
@@ -1281,6 +1293,20 @@
         "lib/netstandard2.0/AutoMapper.xml"
       ]
     },
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1": {
+      "sha512": "+g/K+Vpe3gGMKGzjslMOdqNlkikScDjWfVvmWTayrDHaG/n2pPmFBMa+jKX1r/h6BDGFdkyRjAuhFE3ykW+r1g==",
+      "type": "package",
+      "path": "automapper.extensions.microsoft.dependencyinjection/12.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+        "automapper.extensions.microsoft.dependencyinjection.nuspec",
+        "icon.png",
+        "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
     "Azure.Core/1.47.1": {
       "sha512": "oPcncSsDHuxB8SC522z47xbp2+ttkcKv2YZ90KXhRKN0YQd2+7l1UURT9EBzUNEXtkLZUOAB5xbByMTrYRh3yA==",
       "type": "package",
@@ -1321,29 +1347,19 @@
         "lib/netstandard2.0/Azure.Identity.xml"
       ]
     },
-    "FluentValidation/11.11.0": {
-      "sha512": "cyIVdQBwSipxWG8MA3Rqox7iNbUNUTK5bfJi9tIdm4CAfH71Oo5ABLP4/QyrUwuakqpUEPGtE43BDddvEehuYw==",
+    "FluentValidation/12.1.1": {
+      "sha512": "EPpkIe1yh1a0OXyC100oOA8WMbZvqUu5plwhvYcb7oSELfyUZzfxV48BLhvs3kKo4NwG7MGLNgy1RJiYtT8Dpw==",
       "type": "package",
-      "path": "fluentvalidation/11.11.0",
+      "path": "fluentvalidation/12.1.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "fluent-validation-icon.png",
-        "fluentvalidation.11.11.0.nupkg.sha512",
+        "fluentvalidation.12.1.1.nupkg.sha512",
         "fluentvalidation.nuspec",
-        "lib/net5.0/FluentValidation.dll",
-        "lib/net5.0/FluentValidation.xml",
-        "lib/net6.0/FluentValidation.dll",
-        "lib/net6.0/FluentValidation.xml",
-        "lib/net7.0/FluentValidation.dll",
-        "lib/net7.0/FluentValidation.xml",
         "lib/net8.0/FluentValidation.dll",
-        "lib/net8.0/FluentValidation.xml",
-        "lib/netstandard2.0/FluentValidation.dll",
-        "lib/netstandard2.0/FluentValidation.xml",
-        "lib/netstandard2.1/FluentValidation.dll",
-        "lib/netstandard2.1/FluentValidation.xml"
+        "lib/net8.0/FluentValidation.xml"
       ]
     },
     "FluentValidation.AspNetCore/11.3.1": {
@@ -1365,21 +1381,19 @@
         "lib/netcoreapp3.1/FluentValidation.AspNetCore.xml"
       ]
     },
-    "FluentValidation.DependencyInjectionExtensions/11.11.0": {
-      "sha512": "viTKWaMbL3yJYgGI0DiCeavNbE9UPMWFVK2XS9nYXGbm3NDMd0/L5ER4wBzmTtW3BYh3SrlSXm9RACiKZ6stlA==",
+    "FluentValidation.DependencyInjectionExtensions/12.1.1": {
+      "sha512": "D0VXh4dtjjX2aQizuaa0g6R8X3U1JaVqJPfGCvLwZX9t/O2h7tkpbitbadQMfwcgSPdDbI2vDxuwRMv/Uf9dHA==",
       "type": "package",
-      "path": "fluentvalidation.dependencyinjectionextensions/11.11.0",
+      "path": "fluentvalidation.dependencyinjectionextensions/12.1.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "fluent-validation-icon.png",
-        "fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+        "fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
         "fluentvalidation.dependencyinjectionextensions.nuspec",
-        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
-        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml",
-        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll",
-        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.xml"
+        "lib/net8.0/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/net8.0/FluentValidation.DependencyInjectionExtensions.xml"
       ]
     },
     "Humanizer.Core/2.14.1": {
@@ -3779,7 +3793,10 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "AutoMapper >= 16.1.1",
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
+      "FluentValidation >= 12.1.1",
       "FluentValidation.AspNetCore >= 11.3.1",
+      "FluentValidation.DependencyInjectionExtensions >= 12.1.1",
       "Microsoft.AspNetCore.OpenApi >= 10.0.5",
       "Microsoft.EntityFrameworkCore >= 10.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 10.0.8",
@@ -3792,23 +3809,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {},
+    "C:\\Users\\sujal.myatra\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.API\\Practical_24.API.csproj",
+      "projectUniqueName": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.API\\Practical_24.API.csproj",
       "projectName": "Practical_24.API",
-      "projectPath": "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.API\\Practical_24.API.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.API\\obj\\",
+      "projectPath": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.API\\Practical_24.API.csproj",
+      "packagesPath": "C:\\Users\\sujal.myatra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sujal.myatra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3818,21 +3835,20 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Practical_24.Application.csproj": {
-              "projectPath": "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Practical_24.Application.csproj"
+            "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Practical_24.Application.csproj": {
+              "projectPath": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Application\\Practical_24.Application.csproj"
             },
-            "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Practical_24.Domain.csproj": {
-              "projectPath": "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Practical_24.Domain.csproj"
+            "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Practical_24.Domain.csproj": {
+              "projectPath": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Domain\\Practical_24.Domain.csproj"
             },
-            "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj": {
-              "projectPath": "E:\\Design Pattren\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj"
+            "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\sujal.myatra\\Desktop\\DP Practice\\VendorManagementSystem\\VendorSystem\\Practical_24.Infrastructure\\Practical_24.Infrastructure.csproj"
             }
           }
         }
@@ -3847,20 +3863,31 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
             "version": "[16.1.1, )"
           },
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[12.0.1, )"
+          },
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[12.1.1, )"
+          },
           "FluentValidation.AspNetCore": {
             "target": "Package",
             "version": "[11.3.1, )"
+          },
+          "FluentValidation.DependencyInjectionExtensions": {
+            "target": "Package",
+            "version": "[12.1.1, )"
           },
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
@@ -3910,7 +3937,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -4327,5 +4354,17 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.1.1 was resolved.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
